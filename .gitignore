@@ -23,5 +23,4 @@ pnpm-debug.log*
 # jetbrains setting folder
 .idea/
 
-# .env.local is where secrets are stored
-
+.env.local
